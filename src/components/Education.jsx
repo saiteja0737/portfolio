@@ -4,7 +4,7 @@ import { FaStar, FaMapMarkerAlt, FaCalendar } from 'react-icons/fa'
 const education = [
   {
     school: 'California State University, Sacramento',
-    image: '/portfolio-website/csus.jpg',
+    image: '/portfolio/csus.jpg',
     objectPosition: 'left center',
     degree: 'Master of Science in Business Analytics',
     gpa: '3.9 / 4.0',
@@ -14,7 +14,7 @@ const education = [
   },
   {
     school: 'Krishna University',
-    image: '/portfolio-website/krishna.jpg',
+    image: '/portfolio/krishna.jpg',
     degree: 'Master of Science in Physics',
     gpa: '4.0 / 4.0',
     location: 'Vijayawada, India',
@@ -23,7 +23,7 @@ const education = [
   },
   {
     school: 'Krishna University',
-    image: '/portfolio-website/krishna.jpg',
+    image: '/portfolio/krishna.jpg',
     degree: 'Bachelor of Science in Mathematics, Physics & Computer Science',
     gpa: '3.99 / 4.0',
     location: 'Vijayawada, India',

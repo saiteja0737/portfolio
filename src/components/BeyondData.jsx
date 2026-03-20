@@ -62,7 +62,7 @@ export default function BeyondData() {
               style={{ flex: '0 0 auto', width: '100%', maxWidth: 420, display: 'flex', position: 'relative', borderRadius: 16, overflow: 'hidden' }}
             >
               <img
-                src="/portfolio-website/goldengate.jpg"
+                src="/portfolio/goldengate.jpg"
                 alt="San Francisco"
                 style={{
                   width: '100%',

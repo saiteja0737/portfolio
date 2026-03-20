@@ -224,7 +224,7 @@ export default function HeroAbout() {
             style={{ marginTop: '12px' }}
           >
             <motion.a
-              href="/portfolio-website/resume.pdf"
+              href="/portfolio/resume.pdf"
               target="_blank"
               download="Sai_Teja_Adusumilli_Resume.pdf"
               whileHover={{ backgroundColor: '#1e3a5f', color: '#ffffff' }}
@@ -282,7 +282,7 @@ export default function HeroAbout() {
           style={{ flex: '0 0 auto', display: 'flex', justifyContent: 'center', position: 'relative' }}
         >
           <img
-            src="/portfolio-website/profile.jpg"
+            src="/portfolio/profile.jpg"
             alt="Sai Teja Adusumilli"
             style={{
               width: 272,
