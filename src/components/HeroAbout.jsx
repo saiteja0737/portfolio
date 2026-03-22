@@ -138,7 +138,7 @@ export default function HeroAbout() {
             initial={{ opacity: 0, x: -30 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.6, delay: 0.5, ease: 'easeOut' }}
-            style={{ fontFamily: "'Dancing Script', cursive", fontSize: '32px', color: '#4a5568', margin: 0, marginTop: '12px' }}
+            style={{ fontFamily: "'Dancing Script', cursive", fontSize: '32px', color: '#4a5568', margin: 0, marginTop: '30px' }}
             className="leading-none"
           >
             Hello, I'm
