@@ -147,7 +147,7 @@ export default function Contact() {
           {/* Footer */}
           <div style={{ marginTop: 64, textAlign: 'center' }}>
             <span style={{ fontFamily: 'Inter, sans-serif', fontSize: 13, color: '#9ca3af' }}>
-              © 2026 Sai Teja Adusumilli — Built with React
+              © 2026 Sai Teja Adusumilli
             </span>
           </div>
 
