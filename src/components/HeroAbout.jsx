@@ -109,7 +109,7 @@ export default function HeroAbout() {
       id="about"
       style={{
         minHeight: '100vh',
-        paddingTop: '50px',
+        paddingTop: '62px',
         paddingBottom: '40px',
         display: 'flex',
         alignItems: 'flex-start',
